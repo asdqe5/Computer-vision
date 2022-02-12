@@ -1,0 +1,12 @@
+﻿sift.obj : error LNK2001: unresolved external symbol "void __cdecl cv::imshow(class cv::String const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBVString@1@AEBV_InputArray@1@@Z)
+sift.obj : error LNK2001: unresolved external symbol "bool __cdecl cv::imwrite(class cv::String const &,class cv::_InputArray const &,class std::vector<int,class std::allocator<int> > const &)" (?imwrite@cv@@YA_NAEBVString@1@AEBV_InputArray@1@AEBV?$vector@HV?$allocator@H@std@@@std@@@Z)
+sift.obj : error LNK2001: unresolved external symbol "void __cdecl cv::namedWindow(class cv::String const &,int)" (?namedWindow@cv@@YAXAEBVString@1@H@Z)
+sift.obj : error LNK2001: unresolved external symbol "public: void __cdecl cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QEAAXXZ)
+sift.obj : error LNK2001: unresolved external symbol "public: void __cdecl cv::Mat::copyTo(class cv::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@2@@Z)
+sift.obj : error LNK2001: unresolved external symbol "void __cdecl cv::cvtColor(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z)
+sift.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPEAX@Z)
+sift.obj : error LNK2001: unresolved external symbol "class cv::Mat __cdecl cv::imread(class cv::String const &,int)" (?imread@cv@@YA?AVMat@1@AEBVString@1@H@Z)
+sift.obj : error LNK2001: unresolved external symbol "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+sift.obj : error LNK2001: unresolved external symbol "private: char * __cdecl cv::String::allocate(unsigned __int64)" (?allocate@String@cv@@AEAAPEAD_K@Z)
+sift.obj : error LNK2001: unresolved external symbol "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z)
+C:\Users\wnstj\OneDrive\문서\Visual Studio 2015\Projects\assignment2\x64\Release\assignment2.exe : fatal error LNK1120: 11 unresolved externals

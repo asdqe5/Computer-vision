@@ -1,0 +1,9 @@
+﻿  sift.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\imgproc.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  assignment2.vcxproj -> C:\Users\wnstj\OneDrive\문서\Visual Studio 2015\Projects\assignment2\x64\Debug\assignment2.exe
+  assignment2.vcxproj -> C:\Users\wnstj\OneDrive\문서\Visual Studio 2015\Projects\assignment2\x64\Debug\assignment2.pdb (Full PDB)
